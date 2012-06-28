@@ -7,4 +7,4 @@ My personal notes from the jQuery Conference in San Francisco on June 28 - 29
 
 * [State of jQuery Keynote](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/state-of-jquery-keynote.md)
 * [Exterminating Common jQuery Bugs](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/exterminating-common-jquery-bugs.md) by Elijah Manor
-* [# I .promise() to show you .when() to use Deferreds](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/i-promise-to-show-you-when-to-use-deferreds.md) by Alex McPherson
+* [I .promise() to show you .when() to use Deferreds](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/i-promise-to-show-you-when-to-use-deferreds.md) by Alex McPherson
