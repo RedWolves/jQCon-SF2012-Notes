@@ -7,7 +7,7 @@
 In the bad old days of JavaScript, our days were spent fighting through a thicket of DOM differences. These days, we've pretty much conquered those challenges thanks to tools such as jQuery, but our new challenge is figuring out how to adapt as more and more of our application logic moves from the server to the client. We have great tools like Backbone, Ember, Knockout, and more, but in order to use them effectively, we need to do more than learn their APIs -- we need to learn to think about our code beyond the DOM-centric ways of the past. In this talk, I'll look at useful patterns for thinking about client-side application development that will help you avoid creating a tangled mess of code.
 
 ## Notes
-
+* [Slides available online](https://speakerdeck.com/u/rmurphey/p/jquery-conference-sf-2012-beyond-the-dom-sane-structure-for-js-apps)
 * Logic of applications are moving more and more to the client side. 
 * A simple search application can produce a lot of spaghetti jQuery code that looks ugly. 
 * As your application gets more and more complex you need to rethink how you architect your application
