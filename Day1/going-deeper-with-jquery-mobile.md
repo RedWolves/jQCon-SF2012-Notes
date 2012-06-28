@@ -12,6 +12,7 @@ Building a jQuery Mobile application is easy, but making it stand out from the p
 * Custom Icons
 	* JQM ships with 22 icons
 	* Andy made his own icons: [https://github.com/commadelimited/jQuery-Mobile-Icon-Pack](https://github.com/commadelimited/jQuery-Mobile-Icon-Pack)
+	* Also [FontAwesome](http://fortawesome.github.com/Font-Awesome/)
 	* Creating Icons Tips
 		* start with 36x36
 		* border to show available space 18x18
