@@ -5,6 +5,10 @@
 ### Abstract
 Building a jQuery Mobile application is easy, but making it stand out from the pack takes work. This session will take an in-depth look at the inner workings of jQuery Mobile and show you how to get started with creating custom theming, custom icons, and even custom plugins.
 
+![Andy Matthews](http://ralphwhitbeck.com/i/rw63af34.png)
+
+Photo credit: Doug Neiner [http://twitter.com/dougneiner](@dougneiner)
+
 ## Notes
 * [Slides are available online](http://www.andymatthews.net/read/2012/06/28/Slides-and-demos-from-jQuery-Con-2012)
 * Files available for [download](http://goog.le/4CnpJ)
