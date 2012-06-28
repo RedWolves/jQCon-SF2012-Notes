@@ -159,7 +159,7 @@ Learn about the progress on jQuery Core, jQuery UI and jQuery Mobile
 			* Webview flicker resolved
 			* Visual Consistency
 	* 1.2
-		* New Popup widget
+		* New [Popup](http://jquerymobile.com/test/docs/pages/popup/) widget
 			* can put any kind of widget inside of a pop-up
 				* tooltips
 				* popup menus
