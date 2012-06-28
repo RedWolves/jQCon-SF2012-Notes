@@ -11,7 +11,7 @@ Photo credit: Doug Neiner [http://twitter.com/dougneiner](@dougneiner)
 
 ## Notes
 * [Slides are available online](http://www.andymatthews.net/read/2012/06/28/Slides-and-demos-from-jQuery-Con-2012)
-* Files available for [download](http://goog.le/4CnpJ)
+* Files available for [download](http://goo.gl/4CnpJ)
 * [jqmgallery.com](http://jqmgallery.com) - user submissions of jQuery Mobile websites.
 * Custom Icons
 	* JQM ships with 22 icons
