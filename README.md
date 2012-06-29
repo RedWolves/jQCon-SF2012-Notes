@@ -11,4 +11,5 @@ My personal notes from the jQuery Conference in San Francisco on June 28 - 29
 * [Beyond the DOM: Sane Structure for JS Apps](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/beyond-the-dom-sane-structure-for-js-apps.md) by Rebecca Murphy
 * [Going Deeper with jQuery Mobile](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/going-deeper-with-jquery-mobile.md) by Andy Matthews
 * [HTML5 Game Development on the iPad](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/html5-game-dev-on-the-ipad.md) By Daniel Cohen
-* [The UX of Language](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/) by Alex Sexton
+* [The UX of Language](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/the-ux-of-language.md) by Alex Sexton
+* [New Perspectives of Performance](/RedWolves/jQCon-SF2012-Notes/blob/master/Day1/perspectives-on-performance.md) by Menno van Slooten 
