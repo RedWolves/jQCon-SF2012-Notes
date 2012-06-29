@@ -26,8 +26,9 @@ An overview of the changes to the organization of the jQuery Project.
 	* Individuals
 * Silver level or higher company member companies can put on a jQuery conference
 	* Using the same example as White October used for jQuery UK.
-	* jQuery TO (Toronto)
-	* jQuery Europe
-	* jQuery Australia
-	* jQuery UK - April 13, 2013
+	* Current upcoming conferences
+		* jQuery TO (Toronto)
+		* jQuery Europe
+		* jQuery Australia
+		* jQuery UK - April 13, 2013
  
